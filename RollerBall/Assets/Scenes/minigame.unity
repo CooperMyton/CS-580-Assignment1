@@ -133,7 +133,7 @@ GameObject:
   - component: {fileID: 14643763}
   m_Layer: 0
   m_Name: ground
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -360,6 +360,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: '::'
   speed: 10
+  jumpForce: 5
   countText: {fileID: 1006713470}
   winTextObject: {fileID: 2044602406}
 --- !u!114 &176860944
